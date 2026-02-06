@@ -1,0 +1,20 @@
+1 - Qual o nome e sobrenome do pet?
+Teste
+
+2 - Qual o tipo do pet (Cachorro/Gato)?
+Cachorro
+
+3 - Qual o sexo do animal?
+Macho
+
+4 - Qual endereço e bairro que ele foi encontrado?
+Rua não sei, n.º 23
+
+5 - Qual a idade aproximada do pet?
+123
+
+6 - Qual o peso aproximado do pet?
+13
+
+7 - Qual a raça do pet?
+Border Collie
